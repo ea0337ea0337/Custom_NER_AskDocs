@@ -52,10 +52,13 @@ Extracting meaningful information from patient queries can help in better decisi
 [Back to Top](#Contents)
 
 #### Data Processing and Modeling
-* [`Pushshift API Wrapper`](./Code/pushshift_get_data_clean.ipynb): Functions to use the Pushshift API to query and gather reddit posts from subreddits
-* [`Data Cleaning, Modeling and Evaluation`](./Code/P3_09Oct2021_clean.ipynb): End-to-End modeling workflow including text data clean-up and tokenizing
-* [`Expand Word Contractions`](./Code/contractions.py): Expand word contractions to complete words for easier text processing
-[Source](https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72)<br>
+* [`Data Cleaning`](./code/1_Data_Cleaning.ipynb): Clean text data from csv files and save as json files for annotation
+* [`Pre-processing Annotated Data`](./code/2_Preprocessing.ipynb): Read-in annotated data and check for alignment. Save in a spaCy readable format.
+* [`Model Training`](./code/3_Model_training.ipynb): Build Rule-Based and ML models
+* [`Model Evaluation`](./code/4_Evaluation.ipynb): Evaluate model predictions and compare differences across models
+* [`Pseudo Rehearsal Data`](./code/generate_rehearsal_data.ipynb): Generate sample data to perform pseudo rehearsal as described below
+[Source](https://explosion.ai/blog/pseudo-rehearsal-catastrophic-forgetting)<br>
+
 
 [Back to Top](#Contents)
 
