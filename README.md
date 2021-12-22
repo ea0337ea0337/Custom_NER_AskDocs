@@ -16,8 +16,8 @@ Extracting meaningful information from patient queries can help in better decisi
 
 #### Datasets
 ##### Training + Validation files
-* [`Annotated Training Data`](./data/nsamples_480_v2_2021_6m_doccano.jsonl)
-* [`Annotated Validation Data`](./data/val_nsamples_240_v2_doccano.jsonl)
+* [`Annotated Training Data`](./data/json/nsamples_480_v2_2021_6m_doccano.jsonl)
+* [`Annotated Validation Data`](./data/json/val_nsamples_240_v2_doccano.jsonl)
 * [`Patterns from first batch of annotation`](./data/patterns/old_patterns_240_NS.csv)
 * [`Patterns from latest Rule-Based Model`](./data/patterns/old_patterns_480_NS_v2.csv) 
 * [`Training data for Pseudo Rehearsal`](./data/json/nlp_rehearsal_1000.json)
