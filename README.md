@@ -40,11 +40,14 @@ Extracting meaningful information from patient queries can help in better decisi
 [Back to Top](#Contents)
 
 #### Observations from EDA and Prediction Error Analysis
-* Model is able to discern a lot of key descriptive words representative of each subreddit for e.g. panic, attack, blood, test
-* As expected, keywords for r/Anxiety lean towards emotionally descriptive words
-* Keywords for r/AskDocs lean more towards health issues and conecerns
-* Word counts for each submission are lower on average for posts in r/AskDocs
-* Reviewing posts for False Positives, False Negatives gives some clues about model behavior
+* Text annotation can be an iterative process. It can done efficiently if labeling guidelines are objectively defined beforehand.
+
+* In general, more annotated data leads to better model performance. Thus, any insights about the data from annotating a previous batch of text become very useful for future annotations.
+
+* The annotator has to pay special attention to label a word given its context.
+
+* Using pre-trained ML models should generally be helpful for modeling.
+
 
 [Back to Top](#Contents)
 
