@@ -4,7 +4,7 @@
 - [Problem Statement](#Problem-Statement)
 - [Datasets](#Datasets)
 - [Custom NER Model](#Data-Processing-and-Modeling)
-- [Observations](#Observations-from-EDA-and-Prediction-Error-Analysis)
+- [Observations](#Observations-from-Model-Training-and-Evaluation)
 - [Results and Use Cases](#Results-and-Use-Cases)
 - [Next Steps](#Future-Work)
 
@@ -36,7 +36,7 @@ Extracting meaningful information from patient queries can help in better decisi
 
 [Back to Top](#Contents)
 
-#### Observations from EDA and Prediction Error Analysis
+#### Observations from Model Training and Evaluation
 * Text annotation can be an iterative process. It can done efficiently if labeling guidelines are objectively defined beforehand.
 
 * In general, more annotated data leads to better model performance. Thus, any insights about the data from annotating a previous batch of text become very useful for future annotations.
