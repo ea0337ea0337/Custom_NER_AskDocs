@@ -76,7 +76,7 @@ Extracting meaningful information from patient queries can help in better decisi
 #### Future Work
 - Annotate more data for model training, validation
 - Add frequently occurring and easily identifiable labels such as drug dosage
-- Include the word doctor / Dr. / etc. which was accidentally omitted during clean-up ¯\_(?)_/¯
+- Include the word doctor / Dr. / etc. which was accidentally omitted during clean-up
 - Use domain specific pre-trained spacy models, if available
 - Identify similar, but large annotated datasets and use as an intermediate step in model training; fine-tune model using custom dataset
 - Use data augmentation to make the model more robust to misspelling etc.
