@@ -36,28 +36,26 @@ Extracting meaningful information from patient queries can help in better decisi
 
 [Back to Top](#Contents)
 
-#### Observations from Model Training and Evaluation
-* Text annotation can be an iterative process. It can done efficiently if labeling guidelines are objectively defined beforehand.
-
-* In general, more annotated data leads to better model performance. Thus, any insights about the data from annotating a previous batch of text become very useful for future annotations.
-
-* The annotator has to pay special attention to label a word given its context.
-
-* Using pre-trained ML models should generally be helpful for modeling.
-
-
-[Back to Top](#Contents)
-
 #### Custom NER Model Notebooks
 * [`Data Cleaning`](./code/1_Data_Cleaning.ipynb): Clean text data from csv files and save as json files for annotation
 * [`Pre-processing Annotated Data`](./code/2_Preprocessing.ipynb): Read-in annotated data and check for alignment. Save in a spaCy readable format.
 * [`Model Training`](./code/3_Model_training.ipynb): Build Rule-Based and ML models
 * [`Model Evaluation`](./code/4_Evaluation.ipynb): Evaluate model predictions and compare differences across models
 * [`Pseudo Rehearsal Data`](./code/generate_rehearsal_data.ipynb): Generate sample data to perform pseudo rehearsal as described below
-[Source](https://explosion.ai/blog/pseudo-rehearsal-catastrophic-forgetting)<br>
+[pseudo-rehearsal](https://explosion.ai/blog/pseudo-rehearsal-catastrophic-forgetting)<br>
 
 
 [Back to Top](#Contents)
+
+#### Observations from Model Training and Evaluation
+* Text annotation can be an iterative process. It can done efficiently if labeling guidelines are objectively defined beforehand.
+* In general, more annotated data leads to better model performance. Thus, any insights about the data from annotating a previous batch of text become very useful for future annotations.
+* The annotator has to pay special attention to label a word given its context.
+* Using pre-trained ML models should generally be helpful for modeling.
+
+
+[Back to Top](#Contents)
+
 
 #### Results and Use Cases
 - Customer NER models were trained in spaCy as a proof-of-concept
