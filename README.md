@@ -41,8 +41,7 @@ Extracting meaningful information from patient queries can help in better decisi
 * [`Pre-processing Annotated Data`](./code/2_Preprocessing.ipynb): Read-in annotated data and check for alignment. Save in a spaCy readable format.
 * [`Model Training`](./code/3_Model_training.ipynb): Build Rule-Based and ML models
 * [`Model Evaluation`](./code/4_Evaluation.ipynb): Evaluate model predictions and compare differences across models
-* [`Pseudo Rehearsal Data`](./code/generate_rehearsal_data.ipynb): Generate sample data to perform pseudo rehearsal as described below
-[pseudo-rehearsal](https://explosion.ai/blog/pseudo-rehearsal-catastrophic-forgetting)<br>
+* [`Pseudo Rehearsal Data`](./code/generate_rehearsal_data.ipynb): Generate sample data to perform pseudo rehearsal as described [here](https://explosion.ai/blog/pseudo-rehearsal-catastrophic-forgetting)<br>
 
 
 [Back to Top](#Contents)
