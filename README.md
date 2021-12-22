@@ -6,7 +6,7 @@
 - [Data Dictionary](#Data-Dictionary)
 - [Predictive Modeling](#Data-Processing-and-Modeling)
 - [Observations](#Observations-from-EDA-and-Prediction-Error-Analysis)
-- [Conclusions and Recommendations](#Conclusions-and-Recommendations)
+- [Results and Use Cases](#Results-and-Use-Cases)
 - [Next Steps](#Future-Work)
 
 #### Problem Statement
@@ -62,17 +62,24 @@ Extracting meaningful information from patient queries can help in better decisi
 
 [Back to Top](#Contents)
 
-#### Conclusions and Recommendations
-- A predictive model is built using Logistic Regression with a Test accuracy of 93%,  
-- The current model shows reasonable performance scores to be used in a semi-automated manner i.e. if deployed, a human review of model predictions is needed
-- Healthcare providers who have a lot of patient data should use this exercise as a Proof-of-Concept and provide this service to people in genuine need of help
+#### Results and Use Cases
+- Customer NER models were trained in spaCy as a proof-of-concept
+- For the limited training data, the Rule-Based model performed similar to the ML models.
+- Models need to perform better to be deployable in a useful way
+- A robust NER model can help in characterizing patient queries better
+- Correctly identified health conditions can prompt the patient towards immediate medical attention is needed.
+- Patient demographic data, if extracted properly, can be used to get broad insights into people’s health by gender / age / race / location etc.
+
 
 [Back to Top](#Contents)
 
 #### Future Work
-- Further data cleaning to remove for e.g. case descriptors mandated by forum rules such as  ‘existing relevant medical issue’ in r/AskDocs etc. This will be helpful in finding more meaningful features to understand the dataset
-- Try to understand the impact of bi- and tri-grams on model performance. These features occur less frequently than uni-grams but are better at summarizing the context and hence, have more predictive power for the model
-- Incorporate Part Of Speech (POS) tags as additional features to improve performance
-- Try using word counts, sentiment analysis as features to improve model performance
+- Annotate more data for model training, validation
+- Add frequently occurring and easily identifiable labels such as drug dosage
+- Include the word doctor / Dr. / etc. which was accidentally omitted during clean-up ¯\_(?)_/¯
+- Use domain specific pre-trained spacy models, if available
+- Identify similar, but large annotated datasets and use as an intermediate step in model training; fine-tune model using custom dataset
+- Use data augmentation to make the model more robust to misspelling etc.
+
 
 [Back to Top](#Contents)
