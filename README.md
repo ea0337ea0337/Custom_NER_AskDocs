@@ -3,8 +3,7 @@
 ### Contents
 - [Problem Statement](#Problem-Statement)
 - [Datasets](#Datasets)
-- [Data Dictionary](#Data-Dictionary)
-- [Predictive Modeling](#Data-Processing-and-Modeling)
+- [Custom NER Model](#Data-Processing-and-Modeling)
 - [Observations](#Observations-from-EDA-and-Prediction-Error-Analysis)
 - [Results and Use Cases](#Results-and-Use-Cases)
 - [Next Steps](#Future-Work)
@@ -34,7 +33,6 @@ Extracting meaningful information from patient queries can help in better decisi
 4. Import pre-annotated text into a annotation software (Doccano). Check pre-annotations and perform manual annotation
 5. Export annotated text for model training, evaluation
 6. Go to Step 2 for annotating next batch of text
-
 
 
 [Back to Top](#Contents)
