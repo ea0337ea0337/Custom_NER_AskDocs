@@ -15,14 +15,13 @@ Extracting meaningful information from patient queries can help in better decisi
 [Back to Top](#Contents)
 
 #### Datasets
-##### Training + Validation dataset
-* [`Posts from r/AskDocs for February 2021`](./Data/AskDocs_Feb_2021.csv)
-* [`Posts from r/Anxiety for July 2020`](./Data/Anxiety_July_2020.csv)
-* [`Posts from r/Anxiety for August 2020`](./Data/Anxiety_Aug_2020.csv)
-##### Testing dataset
-* [`Posts from r/AskDocs for March 2021`](./Data/AskDocs_Mar_2021.csv) 
-* [`Posts from r/Anxiety for September 2020`](./Data/Anxiety_Sep_2020.csv)
-* [`Posts from r/Anxiety for October 2020`](./Data/Anxiety_Oct_2020.csv)
+##### Training + Validation files
+* [`Annotated Training Data`](./data/nsamples_480_v2_2021_6m_doccano.jsonl)
+* [`Annotated Validation Data`](./data/val_nsamples_240_v2_doccano.jsonl)
+* [`Patterns from first batch of annotation`](./data/patterns/old_patterns_240_NS.csv)
+* [`Patterns from latest Rule-Based Model`](./data/patterns/old_patterns_480_NS_v2.csv) 
+* [`Training data for Pseudo Rehearsal`](./data/json/nlp_rehearsal_1000.json)
+* [`Validation data for Pseudo Rehearsal`](./data/json/test_nlp_rehearsal_1000.json)
 
 [Back to Top](#Contents)
 
