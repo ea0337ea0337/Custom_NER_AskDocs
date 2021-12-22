@@ -1,0 +1,498 @@
+label,pattern
+DISEASE,"[{'LOWER': 'panic'}, {'LOWER': 'disorder'}]"
+DISEASE,"[{'LOWER': 'type'}, {'LOWER': '2'}, {'LOWER': 'diabetes'}]"
+DISEASE,"[{'LOWER': 'cervical'}, {'LOWER': 'radiculopathy'}]"
+DISEASE,[{'LOWER': 'depression'}]
+DISEASE,[{'LOWER': 'hypercholesterolemia'}]
+DISEASE,[{'LOWER': 'anorexia'}]
+DISEASE,"[{'LOWER': 'graves'}, {'LOWER': 'disease'}]"
+DISEASE,[{'LOWER': 'psoriasis'}]
+DISEASE,"[{'LOWER': 'bipolar'}, {'LOWER': 'disorder'}]"
+DISEASE,"[{'LOWER': 'uterine'}, {'LOWER': 'cancer'}]"
+DISEASE,[{'LOWER': 'asthma'}]
+DISEASE,"[{'LOWER': 'bacterial'}, {'LOWER': 'vaginosis'}]"
+DISEASE,"[{'LOWER': 'oral'}, {'LOWER': 'thrush'}]"
+DISEASE,[{'LOWER': 'hernia'}]
+DISEASE,"[{'LOWER': 'gestational'}, {'LOWER': 'diabetes'}]"
+DISEASE,[{'LOWER': 'akathisia'}]
+DISEASE,"[{'LOWER': 'diabetic'}, {'LOWER': '(t2)'}]"
+DISEASE,[{'LOWER': 'parkinsons'}]
+DISEASE,[{'LOWER': 'anxiety'}]
+DISEASE,[{'LOWER': 'sciatica'}]
+DISEASE,"[{'LOWER': 'breast'}, {'LOWER': 'cancer'}]"
+DISEASE,[{'LOWER': 'goiter'}]
+DISEASE,[{'LOWER': 'endometriosis'}]
+DISEASE,[{'LOWER': 'hemorrhoids'}]
+DISEASE,"[{'LOWER': 'yeast'}, {'LOWER': 'infection'}]"
+DISEASE,[{'LOWER': 'uti'}]
+DISEASE,"[{'LOWER': 'hemiplegic'}, {'LOWER': 'migraines'}]"
+DISEASE,"[{'LOWER': 'viral'}, {'LOWER': 'bronchiolitis'}]"
+DISEASE,[{'LOWER': 'ileitis'}]
+DISEASE,[{'LOWER': 'adhd'}]
+DISEASE,[{'LOWER': 'hep'}]
+DISEASE,[{'LOWER': 'flu'}]
+DISEASE,[{'LOWER': 'lupus'}]
+DISEASE,"[{'LOWER': 'cervical'}, {'LOWER': 'stenosis'}]"
+DISEASE,"[{'LOWER': 'lumber'}, {'LOWER': 'stenosis'}]"
+DISEASE,[{'LOWER': 'covid'}]
+DISEASE,[{'LOWER': 'diarrhea'}]
+DISEASE,[{'LOWER': 'insomnia'}]
+DISEASE,[{'LOWER': 'acne'}]
+DISEASE,"[{'LOWER': 'anxiety'}, {'LOWER': 'disorder'}]"
+DISEASE,[{'LOWER': 'ringworm'}]
+DISEASE,"[{'LOWER': 'familial'}, {'LOWER': 'hypercholesterolemia'}]"
+DISEASE,"[{'LOWER': 'chronic'}, {'LOWER': 'migraine'}]"
+DISEASE,"[{'LOWER': ""crohn's""}]"
+DISEASE,"[{'LOWER': 'autism'}, {'LOWER': 'spectrum'}, {'LOWER': 'disorder'}]"
+DISEASE,[{'LOWER': 'lymphoma'}]
+DISEASE,"[{'LOWER': 'sleep'}, {'LOWER': 'apnea'}]"
+DISEASE,"[{'LOWER': 'colitis'}, {'LOWER': 'ulcerosa'}]"
+DISEASE,"[{'LOWER': 'diagnosed'}, {'LOWER': 'with'}, {'LOWER': 'asthma'}]"
+DISEASE,[{'LOWER': 'gangrene'}]
+DISEASE,[{'LOWER': 'crohns'}]
+DISEASE,[{'LOWER': 'svt'}]
+DISEASE,"[{'LOWER': 'achilles'}, {'LOWER': 'tendonitis'}]"
+DISEASE,[{'LOWER': 'leukemia'}]
+DISEASE,"[{'LOWER': 'ankylosing'}, {'LOWER': 'spondylitis'}]"
+DISEASE,[{'LOWER': 'vertigo'}]
+DISEASE,"[{'LOWER': 'lynch'}, {'LOWER': 'syndrome'}]"
+DISEASE,[{'LOWER': 'pcos'}]
+DISEASE,[{'LOWER': 'pancreatitis'}]
+DISEASE,[{'LOWER': 'gastritis'}]
+DISEASE,"[{'LOWER': 'acute'}, {'LOWER': 'pancreatitis'}]"
+DISEASE,[{'LOWER': 'strep'}]
+DISEASE,[{'LOWER': 'pneumonia'}]
+DISEASE,"[{'LOWER': 'umbilical'}, {'LOWER': 'hernia'}]"
+DISEASE,[{'LOWER': 'bradycardia'}]
+DISEASE,"[{'LOWER': 'hep'}, {'LOWER': 'c'}]"
+DISEASE,"[{'LOWER': 'thyroid'}, {'LOWER': 'cancer'}]"
+DISEASE,"[{'LOWER': 'ovarian'}, {'LOWER': 'cyst'}]"
+DISEASE,"[{'LOWER': 'eating'}, {'LOWER': 'disorder'}]"
+DISEASE,"[{'LOWER': 'viral'}, {'LOWER': 'fever'}]"
+DISEASE,[{'LOWER': 'scoliosis'}]
+DISEASE,"[{'LOWER': 'pruritus'}, {'LOWER': 'ani'}]"
+DISEASE,[{'LOWER': 'ibd'}]
+DISEASE,[{'LOWER': 'esophagitis'}]
+DISEASE,"[{'LOWER': 'crohns'}, {'LOWER': 'disease'}]"
+DISEASE,"[{'LOWER': 'bipolar'}, {'LOWER': 'nos'}]"
+DISEASE,"[{'LOWER': 'essential'}, {'LOWER': 'thrombocythemia'}]"
+DISEASE,[{'LOWER': 'arthritis'}]
+DISEASE,"[{'LOWER': 'orthostatic'}, {'LOWER': 'tachycardia'}]"
+DISEASE,"[{'LOWER': 'benign'}, {'LOWER': 'vertigo'}]"
+DISEASE,[{'LOWER': 'dysphagia'}]
+DISEASE,[{'LOWER': 'eczema'}]
+DISEASE,[{'LOWER': 'pots'}]
+DISEASE,[{'LOWER': 'hives'}]
+DISEASE,"[{'LOWER': 'rheumatoid'}, {'LOWER': 'arthritis'}]"
+DISEASE,[{'LOWER': 'hypothiroidism'}]
+DISEASE,"[{'LOWER': 'cervical'}, {'LOWER': 'instability'}]"
+DISEASE,"[{'LOWER': 'vitamin'}, {'LOWER': 'd'}, {'LOWER': 'deficiency'}]"
+DISEASE,[{'LOWER': 'tachycardia'}]
+DISEASE,[{'LOWER': 'fibromyalgia'}]
+DISEASE,"[{'LOWER': 'carpal'}, {'LOWER': 'tunnel'}]"
+DISEASE,"[{'LOWER': 'depression'}, {'LOWER': 'and'}, {'LOWER': 'anxiety'}]"
+DISEASE,[{'LOWER': 'bipolar'}]
+DISEASE,"[{'LOWER': 'bacterial'}, {'LOWER': 'pneumonia'}]"
+DISEASE,[{'LOWER': 'gd'}]
+DISEASE,"[{'LOWER': 'degenerative'}, {'LOWER': 'disc'}, {'LOWER': 'disease'}]"
+DISEASE,[{'LOWER': 'diabetes'}]
+DISEASE,"[{'LOWER': 'testicular'}, {'LOWER': 'cancer'}]"
+DISEASE,"[{'LOWER': 'benign'}, {'LOWER': 'fasciculation'}, {'LOWER': 'syndrome'}]"
+DISEASE,"[{'LOWER': 'chronic'}, {'LOWER': 'gastritis'}]"
+DISEASE,[{'LOWER': 'anhedonia'}]
+DISEASE,"[{'LOWER': 'mitral'}, {'LOWER': 'valve'}, {'LOWER': 'prolapse'}]"
+DISEASE,[{'LOWER': 'hypothyroidism'}]
+DISEASE,"[{'LOWER': 'pelvic'}, {'LOWER': 'organ'}, {'LOWER': 'prolapse'}]"
+DISEASE,[{'LOWER': 'anemia'}]
+DISEASE,"[{'LOWER': 'extensive'}, {'LOWER': 'endometriosis'}]"
+DISEASE,"[{'LOWER': 'polycythemia'}, {'LOWER': 'vera'}]"
+DISEASE,"[{'LOWER': 'mitochondrial'}, {'LOWER': 'myopathy'}]"
+DISEASE,[{'LOWER': 'prediabetes'}]
+DISEASE,[{'LOWER': 'migraine'}]
+DISEASE,"[{'LOWER': 'myelodysplastic'}, {'LOWER': 'syndrome'}]"
+DISEASE,"[{'LOWER': 'heat'}, {'LOWER': 'exhaustion'}]"
+DISEASE,"[{'LOWER': 'ear'}, {'LOWER': 'infection'}]"
+DISEASE,"[{'LOWER': 'varicose'}, {'LOWER': 'veins'}]"
+DISEASE,[{'LOWER': 'perimenopause'}]
+DISEASE,"[{'LOWER': 'necrotizing'}, {'LOWER': 'pneumonia'}]"
+DISEASE,[{'LOWER': 'allergies'}]
+DISEASE,[{'LOWER': 'aspergers'}]
+DISEASE,"[{'LOWER': 'ovarian'}, {'LOWER': 'fibromatosis'}]"
+DISEASE,"[{'LOWER': 'piriformis'}, {'LOWER': 'syndrome'}]"
+DISEASE,[{'LOWER': 'dysautonomia'}]
+DISEASE,[{'LOWER': 'hpv'}]
+DISEASE,"[{'LOWER': 'yeast'}, {'LOWER': 'infections'}]"
+DISEASE,"[{'LOWER': 'interatrial'}, {'LOWER': 'communication'}]"
+DISEASE,[{'LOWER': 'herpes'}]
+DISEASE,"[{'LOWER': 'ehlers'}, {'LOWER': 'danlos'}, {'LOWER': 'syndrome'}]"
+DISEASE,"[{'LOWER': 'thoracic'}, {'LOWER': 'outlet'}, {'LOWER': 'syndrome'}]"
+DISEASE,[{'LOWER': 'ibs'}]
+DISEASE,"[{'LOWER': 'restless'}, {'LOWER': 'leg'}, {'LOWER': 'syndrome'}]"
+DISEASE,[{'LOWER': 'mono'}]
+DISEASE,"[{'LOWER': 'ulnar'}, {'LOWER': 'neuropathy'}]"
+DISEASE,"[{'LOWER': 'scapula'}, {'LOWER': 'dyskinesis'}]"
+DISEASE,"[{'LOWER': 'kidney'}, {'LOWER': 'stone'}]"
+DISEASE,"[{'LOWER': 'cardiac'}, {'LOWER': 'arrhythmia'}]"
+DISEASE,[{'LOWER': 'ptsd'}]
+DISEASE,[{'LOWER': 'ocd'}]
+DISEASE,"[{'LOWER': 'portal'}, {'LOWER': 'hypertension'}]"
+DISEASE,[{'LOWER': 'fibroadenoma'}]
+DISEASE,"[{'LOWER': 'silent'}, {'LOWER': 'reflux'}]"
+DISEASE,[{'LOWER': 'ezcema'}]
+DISEASE,"[{'LOWER': 'heart'}, {'LOWER': 'valve'}, {'LOWER': 'infection'}]"
+DISEASE,[{'LOWER': 'hiv'}]
+DISEASE,[{'LOWER': 'gerd'}]
+DISEASE,[{'LOWER': 'rheumatism'}]
+DISEASE,[{'LOWER': 'hemangioma'}]
+DISEASE,"[{'LOWER': ""hashimoto's""}]"
+DISEASE,"[{'LOWER': 'pulmonary'}, {'LOWER': 'hypertension'}]"
+DISEASE,"[{'LOWER': 'chiriosis'}, {'LOWER': 'of'}, {'LOWER': 'the'}, {'LOWER': 'liver'}]"
+DISEASE,[{'LOWER': 'autism'}]
+DRUG,[{'LOWER': 'lupron'}]
+DRUG,[{'LOWER': 'levothyroxine'}]
+DRUG,[{'LOWER': 'thyroxin'}]
+DRUG,[{'LOWER': 'trintellix'}]
+DRUG,[{'LOWER': 'vyvanse'}]
+DRUG,[{'LOWER': 'phenibut'}]
+DRUG,[{'LOWER': 'hydroxyzine'}]
+DRUG,[{'LOWER': 'klonopin'}]
+DRUG,[{'LOWER': 'bentyl'}]
+DRUG,"[{'LOWER': 'pepto'}, {'LOWER': 'bismol'}]"
+DRUG,"[{'LOWER': 'sandoz'}, {'LOWER': 'ciprofloxacin'}, {'LOWER': 'dexamethasone'}]"
+DRUG,[{'LOWER': 'prozac'}]
+DRUG,[{'LOWER': 'imodium'}]
+DRUG,[{'LOWER': 'progesterone'}]
+DRUG,[{'LOWER': 'advair'}]
+DRUG,[{'LOWER': 'tirosint'}]
+DRUG,[{'LOWER': 'promethazine'}]
+DRUG,[{'LOWER': 'sertraline'}]
+DRUG,[{'LOWER': 'singulair'}]
+DRUG,[{'LOWER': 'iud'}]
+DRUG,[{'LOWER': 'parkinsons'}]
+DRUG,[{'LOWER': 'desonide'}]
+DRUG,"[{'LOWER': 'clotrimazole'}, {'LOWER': 'betamethasone'}]"
+DRUG,[{'LOWER': 'librium'}]
+DRUG,"[{'LOWER': 'steroid'}, {'LOWER': 'cream'}]"
+DRUG,[{'LOWER': 'zinc'}]
+DRUG,[{'LOWER': 'effexor'}]
+DRUG,[{'LOWER': 'desitin'}]
+DRUG,[{'LOWER': 'suboxone'}]
+DRUG,[{'LOWER': 'tramadol'}]
+DRUG,"[{'LOWER': 'diaphragm'}, {'LOWER': 'bc'}]"
+DRUG,[{'LOWER': 'vaseline'}]
+DRUG,[{'LOWER': 'valtrex'}]
+DRUG,"[{'LOWER': 'vitamin'}, {'LOWER': 'd3'}, {'LOWER': 'supplements'}]"
+DRUG,[{'LOWER': 'nexium'}]
+DRUG,[{'LOWER': 'fluoxetine'}]
+DRUG,[{'LOWER': 'xyzal'}]
+DRUG,[{'LOWER': 'ubiprofane'}]
+DRUG,[{'LOWER': 'vicodine'}]
+DRUG,[{'LOWER': 'focalin'}]
+DRUG,[{'LOWER': 'amytriptaline'}]
+DRUG,"[{'LOWER': 'albuterol'}, {'LOWER': 'nebulizer'}]"
+DRUG,"[{'LOWER': 'loryna'}, {'LOWER': 'birth'}, {'LOWER': 'control'}]"
+DRUG,[{'LOWER': 'opioids'}]
+DRUG,[{'LOWER': 'propenalol'}]
+DRUG,"[{'LOWER': 'iron'}, {'LOWER': 'tablets'}]"
+DRUG,[{'LOWER': 'ritalin'}]
+DRUG,[{'LOWER': 'xanax'}]
+DRUG,"[{'LOWER': 'excedrin'}, {'LOWER': 'pm'}]"
+DRUG,[{'LOWER': 'advil'}]
+DRUG,"[{'LOWER': 'rubbing'}, {'LOWER': '(isopropyl)'}, {'LOWER': 'alcohol'}]"
+DRUG,[{'LOWER': 'buprenorphine'}]
+DRUG,[{'LOWER': 'miralax'}]
+DRUG,[{'LOWER': 'tagamet'}]
+DRUG,[{'LOWER': 'paroxetine'}]
+DRUG,[{'LOWER': 'keppra'}]
+DRUG,[{'LOWER': 'corticosteroid'}]
+DRUG,[{'LOWER': 'flovent'}]
+DRUG,[{'LOWER': 'nasonex'}]
+DRUG,"[{'LOWER': 'adderal'}, {'LOWER': 'xr'}]"
+DRUG,"[{'LOWER': 'proair'}, {'LOWER': 'inhaler'}]"
+DRUG,[{'LOWER': 'lasix'}]
+DRUG,[{'LOWER': 'bicard'}]
+DRUG,[{'LOWER': 'nexplanon'}]
+DRUG,[{'LOWER': 'concerta'}]
+DRUG,[{'LOWER': 'calcium'}]
+DRUG,[{'LOWER': 'neosporin'}]
+DRUG,[{'LOWER': 'ondansetron'}]
+DRUG,[{'LOWER': 'omeprazole'}]
+DRUG,"[{'LOWER': 'rabies'}, {'LOWER': 'shot'}]"
+DRUG,[{'LOWER': 'trazadone'}]
+DRUG,[{'LOWER': 'lorazepam'}]
+DRUG,[{'LOWER': 'gaberpentin'}]
+DRUG,[{'LOWER': 'hydrocortisone'}]
+DRUG,"[{'LOWER': 'rubbing'}, {'LOWER': 'alcohol'}]"
+DRUG,"[{'LOWER': 'adderall'}, {'LOWER': 'ir'}]"
+DRUG,[{'LOWER': 'magnesium'}]
+DRUG,[{'LOWER': 'fefol'}]
+DRUG,[{'LOWER': 'xulane'}]
+DRUG,[{'LOWER': 'prilosec'}]
+DRUG,[{'LOWER': 'nebulizer'}]
+DRUG,"[{'LOWER': 'infants'}, {'LOWER': 'tylenol'}]"
+DRUG,[{'LOWER': 'soma'}]
+DRUG,"[{'LOWER': 'covid'}, {'LOWER': 'vaccine'}]"
+DRUG,"[{'LOWER': 'anti'}, {'LOWER': 'depressants'}]"
+DRUG,[{'LOWER': 'bupe'}]
+DRUG,"[{'LOWER': 'covid'}, {'LOWER': 'booster'}]"
+DRUG,[{'LOWER': 'benadryl'}]
+DRUG,[{'LOWER': 'warfarin'}]
+DRUG,[{'LOWER': 'acetaminophen'}]
+DRUG,[{'LOWER': 'gabapentin'}]
+DRUG,[{'LOWER': 'paragard'}]
+DRUG,[{'LOWER': 'fluconazole'}]
+DRUG,[{'LOWER': 'vimpat'}]
+DRUG,[{'LOWER': 'norepinephrine'}]
+DRUG,[{'LOWER': 'levonex'}]
+DRUG,[{'LOWER': 'pepcid'}]
+DRUG,[{'LOWER': 'dexedrine'}]
+DRUG,[{'LOWER': 'lamotrigine'}]
+DRUG,"[{'LOWER': 'bisoprolol'}, {'LOWER': 'fumarate'}]"
+DRUG,"[{'LOWER': 'rabies'}, {'LOWER': 'vaccine'}]"
+DRUG,[{'LOWER': 'symbicort'}]
+DRUG,[{'LOWER': 'amoxicillin'}]
+DRUG,"[{'LOWER': 'fish'}, {'LOWER': 'oil'}]"
+DRUG,[{'LOWER': 'antacids'}]
+DRUG,"[{'LOWER': 'otc'}, {'LOWER': 'painkillers'}]"
+DRUG,[{'LOWER': 'biotin'}]
+DRUG,"[{'LOWER': 'centrum'}, {'LOWER': 'one'}, {'LOWER': 'a'}, {'LOWER': 'day'}]"
+DRUG,[{'LOWER': 'motrin'}]
+DRUG,[{'LOWER': 'levothroid'}]
+DRUG,[{'LOWER': 'mirena'}]
+DRUG,[{'LOWER': 'propranalol'}]
+DRUG,"[{'LOWER': 'benzos'}, {'LOWER': 'klonopin'}]"
+DRUG,[{'LOWER': 'lamictal'}]
+DRUG,[{'LOWER': 'antihistamines'}]
+DRUG,[{'LOWER': 'buspar'}]
+DRUG,[{'LOWER': 'zeasorb'}]
+DRUG,[{'LOWER': 'smoo'}]
+DRUG,[{'LOWER': 'cymbalta'}]
+DRUG,"[{'LOWER': 'moderna'}, {'LOWER': 'shots'}]"
+DRUG,[{'LOWER': 'propranolol'}]
+DRUG,[{'LOWER': 'zyrtec'}]
+DRUG,"[{'LOWER': 'pfizer'}, {'LOWER': 'shot'}]"
+DRUG,"[{'LOWER': 'paragard'}, {'LOWER': 'iud'}]"
+DRUG,[{'LOWER': 'toradol'}]
+DRUG,[{'LOWER': 'atorvastatin'}]
+DRUG,"[{'LOWER': 'diaphragm'}, {'LOWER': 'birth'}, {'LOWER': 'control'}]"
+DRUG,[{'LOWER': 'quetiapine'}]
+DRUG,"[{'LOWER': 'sublocade'}, {'LOWER': 'shot'}]"
+DRUG,[{'LOWER': 'luvox'}]
+DRUG,[{'LOWER': 'trazodone'}]
+DRUG,[{'LOWER': 'heroin'}]
+DRUG,[{'LOWER': 'duspatal'}]
+DRUG,[{'LOWER': 'losartan'}]
+DRUG,[{'LOWER': 'lithium'}]
+DRUG,[{'LOWER': 'depakote'}]
+DRUG,[{'LOWER': 'nsaid'}]
+DRUG,[{'LOWER': 'valium'}]
+DRUG,[{'LOWER': 'linsinpro'}]
+DRUG,[{'LOWER': 'augmentin'}]
+DRUG,[{'LOWER': 'clonodine'}]
+DRUG,[{'LOWER': 'welbutrin'}]
+DRUG,[{'LOWER': 'reglan'}]
+DRUG,[{'LOWER': 'ibuprofen'}]
+DRUG,[{'LOWER': 'paxil'}]
+DRUG,"[{'LOWER': 'steroid'}, {'LOWER': 'injection'}]"
+DRUG,[{'LOWER': 'b12'}]
+DRUG,"[{'LOWER': 'zinc'}, {'LOWER': 'oxide'}]"
+DRUG,"[{'LOWER': 'pfizer'}, {'LOWER': 'covid'}, {'LOWER': 'vaccine'}]"
+DRUG,[{'LOWER': 'naproxen'}]
+DRUG,[{'LOWER': 'antidepressants'}]
+DRUG,[{'LOWER': 'alprazolam'}]
+DRUG,[{'LOWER': 'ferosamide'}]
+DRUG,[{'LOWER': 'ativan'}]
+DRUG,"[{'LOWER': 'pfizer'}, {'LOWER': 'vaccine'}]"
+DRUG,[{'LOWER': 'citalopram'}]
+DRUG,"[{'LOWER': 'flu'}, {'LOWER': 'shot'}]"
+DRUG,[{'LOWER': 'nortriptyline'}]
+DRUG,[{'LOWER': 'flonase'}]
+DRUG,"[{'LOWER': 'estradiol'}, {'LOWER': 'patch'}]"
+DRUG,[{'LOWER': 'potassium'}]
+DRUG,[{'LOWER': 'robetussin'}]
+DRUG,[{'LOWER': 'propanolol'}]
+DRUG,[{'LOWER': 'mydais'}]
+DRUG,[{'LOWER': 'cyclobenzaprine'}]
+DRUG,"[{'LOWER': 'folic'}, {'LOWER': 'acid'}]"
+DRUG,[{'LOWER': 'zoloft'}]
+DRUG,[{'LOWER': 'metronidazole'}]
+DRUG,[{'LOWER': 'bupinorphine'}]
+DRUG,"[{'LOWER': 'tylenol'}, {'LOWER': 'extra'}, {'LOWER': 'strength'}]"
+DRUG,[{'LOWER': 'glucosamine'}]
+DRUG,[{'LOWER': 'prednisone'}]
+DRUG,"[{'LOWER': 'hydrogen'}, {'LOWER': 'peroxide'}]"
+DRUG,"[{'LOWER': 'otc'}, {'LOWER': 'pain'}, {'LOWER': 'meds'}]"
+DRUG,[{'LOWER': 'painkillers'}]
+DRUG,[{'LOWER': 'estradiol'}]
+DRUG,[{'LOWER': 'sdnris'}]
+DRUG,[{'LOWER': 'adderall'}]
+DRUG,[{'LOWER': 'wellbutrin'}]
+DRUG,[{'LOWER': 'zofran'}]
+DRUG,"[{'LOWER': 'birth'}, {'LOWER': 'control'}]"
+DRUG,[{'LOWER': 'protopic'}]
+DRUG,[{'LOWER': 'metformin'}]
+DRUG,[{'LOWER': 'tums'}]
+DRUG,[{'LOWER': 'cephalexin'}]
+DRUG,[{'LOWER': 'nsaids'}]
+DRUG,[{'LOWER': 'lexapro'}]
+DRUG,[{'LOWER': 'anxiolytics'}]
+DRUG,"[{'LOWER': 'iron'}, {'LOWER': 'supplements'}]"
+DRUG,[{'LOWER': 'ciprofloxacin'}]
+DRUG,[{'LOWER': 'spironolactone'}]
+DRUG,[{'LOWER': 'aleve'}]
+DRUG,"[{'LOWER': 'sleeping'}, {'LOWER': 'pills'}]"
+DRUG,[{'LOWER': 'naloxone'}]
+DRUG,[{'LOWER': 'provera'}]
+DRUG,[{'LOWER': 'tylenol'}]
+DRUG,[{'LOWER': 'addyi'}]
+DRUG,"[{'LOWER': 'cough'}, {'LOWER': 'syrup'}]"
+DRUG,[{'LOWER': 'ozempic'}]
+DRUG,"[{'LOWER': 'beta'}, {'LOWER': 'blockers'}]"
+DRUG,[{'LOWER': 'cortisone'}]
+DRUG,[{'LOWER': 'oxycodone'}]
+DRUG,[{'LOWER': 'balneol'}]
+DRUG,"[{'LOWER': 'asthma'}, {'LOWER': 'medications'}]"
+DRUG,"[{'LOWER': 'pfizer'}, {'LOWER': 'biotech'}, {'LOWER': 'covid'}, {'LOWER': '19'}, {'LOWER': 'vaccine'}]"
+DISEASE,[{'LOWER': 'uti'}]
+DISEASE,"[{'LOWER': 'piriformis'}, {'LOWER': 'syndrome'}]"
+DISEASE,"[{'LOWER': 'ovarian'}, {'LOWER': 'cyst'}]"
+DISEASE,[{'LOWER': 'anxiety'}]
+DISEASE,"[{'LOWER': 'depression'}, {'LOWER': 'and'}, {'LOWER': 'anxiety'}]"
+DISEASE,[{'LOWER': 'hernia'}]
+DISEASE,[{'LOWER': 'leukemia'}]
+DISEASE,"[{'LOWER': 'carpal'}, {'LOWER': 'tunnel'}]"
+DISEASE,[{'LOWER': 'ibd'}]
+DISEASE,[{'LOWER': 'aspergers'}]
+DISEASE,"[{'LOWER': 'heat'}, {'LOWER': 'exhaustion'}]"
+DISEASE,"[{'LOWER': 'myelodysplastic'}, {'LOWER': 'syndrome'}]"
+DISEASE,[{'LOWER': 'pots'}]
+DISEASE,"[{'LOWER': 'scapula'}, {'LOWER': 'dyskinesis'}]"
+DISEASE,[{'LOWER': 'autism'}]
+DISEASE,"[{'LOWER': 'viral'}, {'LOWER': 'fever'}]"
+DISEASE,[{'LOWER': 'adhd'}]
+DISEASE,"[{'LOWER': 'viral'}, {'LOWER': 'bronchiolitis'}]"
+DISEASE,[{'LOWER': 'diarrhea'}]
+DISEASE,"[{'LOWER': 'rheumatoid'}, {'LOWER': 'arthritis'}]"
+DISEASE,"[{'LOWER': 'graves'}, {'LOWER': 'disease'}]"
+DISEASE,[{'LOWER': 'crohns'}]
+DISEASE,[{'LOWER': 'tachycardia'}]
+DISEASE,[{'LOWER': 'ptsd'}]
+DISEASE,[{'LOWER': 'goiter'}]
+DISEASE,[{'LOWER': 'covid'}]
+DISEASE,[{'LOWER': 'migraine'}]
+DISEASE,"[{'LOWER': 'oral'}, {'LOWER': 'thrush'}]"
+DISEASE,"[{'LOWER': 'ear'}, {'LOWER': 'infection'}]"
+DISEASE,[{'LOWER': 'allergies'}]
+DISEASE,[{'LOWER': 'diabetes'}]
+DISEASE,[{'LOWER': 'asthma'}]
+DISEASE,"[{'LOWER': 'ankylosing'}, {'LOWER': 'spondylitis'}]"
+DISEASE,"[{'LOWER': 'bacterial'}, {'LOWER': 'vaginosis'}]"
+DISEASE,[{'LOWER': 'psoriasis'}]
+DISEASE,[{'LOWER': 'sciatica'}]
+DISEASE,[{'LOWER': 'hypothyroidism'}]
+DISEASE,[{'LOWER': 'ibs'}]
+DRUG,[{'LOWER': 'ciprofloxacin'}]
+DRUG,"[{'LOWER': 'folic'}, {'LOWER': 'acid'}]"
+DRUG,"[{'LOWER': 'otc'}, {'LOWER': 'painkillers'}]"
+DRUG,[{'LOWER': 'ibuprofen'}]
+DRUG,[{'LOWER': 'nexplanon'}]
+DRUG,[{'LOWER': 'robetussin'}]
+DRUG,[{'LOWER': 'vaseline'}]
+DRUG,[{'LOWER': 'linsinpro'}]
+DRUG,[{'LOWER': 'nebulizer'}]
+DRUG,[{'LOWER': 'dexedrine'}]
+DRUG,[{'LOWER': 'progesterone'}]
+DRUG,[{'LOWER': 'tylenol'}]
+DRUG,[{'LOWER': 'augmentin'}]
+DRUG,[{'LOWER': 'nortriptyline'}]
+DRUG,"[{'LOWER': 'vitamin'}, {'LOWER': 'd3'}, {'LOWER': 'supplements'}]"
+DRUG,"[{'LOWER': 'anti'}, {'LOWER': 'depressants'}]"
+DRUG,"[{'LOWER': 'iron'}, {'LOWER': 'supplements'}]"
+DRUG,[{'LOWER': 'soma'}]
+DRUG,"[{'LOWER': 'sandoz'}, {'LOWER': 'ciprofloxacin'}, {'LOWER': 'dexamethasone'}]"
+DRUG,[{'LOWER': 'spironolactone'}]
+DRUG,[{'LOWER': 'biotin'}]
+DRUG,[{'LOWER': 'cortisone'}]
+DRUG,"[{'LOWER': 'cough'}, {'LOWER': 'syrup'}]"
+DRUG,"[{'LOWER': 'sleeping'}, {'LOWER': 'pills'}]"
+DRUG,[{'LOWER': 'lexapro'}]
+DRUG,[{'LOWER': 'clonodine'}]
+DRUG,"[{'LOWER': 'infants'}, {'LOWER': 'tylenol'}]"
+DRUG,[{'LOWER': 'nasonex'}]
+DRUG,[{'LOWER': 'neosporin'}]
+DRUG,[{'LOWER': 'paxil'}]
+DRUG,[{'LOWER': 'fluoxetine'}]
+DRUG,[{'LOWER': 'antidepressants'}]
+DRUG,[{'LOWER': 'metronidazole'}]
+DRUG,[{'LOWER': 'levothyroxine'}]
+DRUG,[{'LOWER': 'estradiol'}]
+DRUG,"[{'LOWER': 'pfizer'}, {'LOWER': 'covid'}, {'LOWER': 'vaccine'}]"
+DRUG,"[{'LOWER': 'rabies'}, {'LOWER': 'shot'}]"
+DRUG,[{'LOWER': 'flonase'}]
+DRUG,[{'LOWER': 'amoxicillin'}]
+DRUG,[{'LOWER': 'lamictal'}]
+DRUG,"[{'LOWER': 'iron'}, {'LOWER': 'tablets'}]"
+DRUG,"[{'LOWER': 'flu'}, {'LOWER': 'shot'}]"
+DRUG,"[{'LOWER': 'covid'}, {'LOWER': 'vaccine'}]"
+DRUG,[{'LOWER': 'anxiolytics'}]
+DRUG,[{'LOWER': 'motrin'}]
+DRUG,[{'LOWER': 'escitalopram'}]
+DRUG,"[{'LOWER': 'beta'}, {'LOWER': 'blockers'}]"
+DRUG,[{'LOWER': 'ibuprofen'}]
+DRUG,[{'LOWER': 'amnesteem'}]
+DRUG,[{'LOWER': 'bupirone'}]
+DRUG,[{'LOWER': 'zoloft'}]
+DRUG,[{'LOWER': 'dextroamphetamine'}]
+DRUG,[{'LOWER': 'carveidilol'}]
+DRUG,[{'LOWER': 'propanolol'}]
+DRUG,[{'LOWER': 'carvedilol'}]
+DRUG,[{'LOWER': 'nsaids'}]
+DRUG,"[{'LOWER': 'birth'}, {'LOWER': 'control'}]"
+DRUG,[{'LOWER': 'ssris'}]
+DRUG,[{'LOWER': 'propranolol'}]
+DRUG,[{'LOWER': 'tagamet'}]
+DRUG,[{'LOWER': 'augmentin'}]
+DRUG,[{'LOWER': 'metoprolol'}]
+DRUG,[{'LOWER': 'amlodipine'}]
+DRUG,[{'LOWER': 'advil'}]
+DRUG,[{'LOWER': 'hydroxyzine'}]
+DRUG,[{'LOWER': 'ativan'}]
+DRUG,[{'LOWER': 'pantoprazole'}]
+DRUG,[{'LOWER': 'roacutan'}]
+DRUG,"[{'LOWER': 'beta'}, {'LOWER': 'blocker'}]"
+DRUG,[{'LOWER': 'lexapro'}]
+DRUG,"[{'LOWER': 'levothyroxine'}, {'LOWER': 'sodium'}]"
+DRUG,[{'LOWER': 'ssri'}]
+DRUG,[{'LOWER': 'hydrozyxine'}]
+DRUG,[{'LOWER': 'antihistamine'}]
+DRUG,[{'LOWER': 'prilosec'}]
+DRUG,[{'LOWER': 'levothyroxine'}]
+DRUG,[{'LOWER': 'effexor'}]
+DISEASE,[{'LOWER': 'uti'}]
+DISEASE,[{'LOWER': 'dermatographia'}]
+DISEASE,[{'LOWER': 'giloblastoma'}]
+DISEASE,"[{'LOWER': 'depression'}, {'LOWER': 'dysphoria'}]"
+DISEASE,[{'LOWER': 'anxiety'}]
+DISEASE,"[{'LOWER': 'panic'}, {'LOWER': 'disorder'}]"
+DISEASE,[{'LOWER': 'depression'}]
+DISEASE,[{'LOWER': 'gad'}]
+DISEASE,"[{'LOWER': 'yeast'}, {'LOWER': 'infection'}]"
+DISEASE,"[{'LOWER': 'hashimotos'}, {'LOWER': 'thyroiditis'}]"
+DISEASE,"[{'LOWER': 'blocked'}, {'LOWER': 'eustachian'}, {'LOWER': 'tubes'}]"
+DISEASE,[{'LOWER': 'arrhythmia'}]
+DISEASE,[{'LOWER': 'pneumonia'}]
+DISEASE,[{'LOWER': 'adhd'}]
+DISEASE,"[{'LOWER': 'small'}, {'LOWER': 'arachnoid'}, {'LOWER': 'cyst'}]"
+DISEASE,"[{'LOWER': 'retinal'}, {'LOWER': 'vascular'}, {'LOWER': 'tortuosity'}]"
+DISEASE,"[{'LOWER': 'vascular'}, {'LOWER': 'tortuosity'}]"
+DISEASE,[{'LOWER': 'mdd'}]
+DISEASE,"[{'LOWER': 'cardiac'}, {'LOWER': 'arrythmia'}]"
+DISEASE,[{'LOWER': 'covid'}]
+DISEASE,[{'LOWER': 'prostatitis'}]
+DISEASE,[{'LOWER': 'gerd'}]
+DISEASE,"[{'LOWER': 'obsessive'}, {'LOWER': 'compulsive'}, {'LOWER': 'disorder'}]"
+DISEASE,"[{'LOWER': 'minor'}, {'LOWER': 'hypoglycemia'}]"
+DISEASE,[{'LOWER': 'ocd'}]
+DISEASE,"[{'LOWER': 'sinus'}, {'LOWER': 'tachycardia'}]"
+DISEASE,[{'LOWER': 'hypothyroidism'}]
+DISEASE,[{'LOWER': 'ibs'}]

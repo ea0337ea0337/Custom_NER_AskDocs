@@ -1,0 +1,314 @@
+label,pattern
+DISEASE,[{'LOWER': 'uti'}]
+DISEASE,"[{'LOWER': 'piriformis'}, {'LOWER': 'syndrome'}]"
+DISEASE,"[{'LOWER': 'ovarian'}, {'LOWER': 'cyst'}]"
+DISEASE,[{'LOWER': 'anxiety'}]
+DISEASE,"[{'LOWER': 'depression'}, {'LOWER': 'and'}, {'LOWER': 'anxiety'}]"
+DISEASE,[{'LOWER': 'hernia'}]
+DISEASE,[{'LOWER': 'leukemia'}]
+DISEASE,"[{'LOWER': 'carpal'}, {'LOWER': 'tunnel'}]"
+DISEASE,[{'LOWER': 'ibd'}]
+DISEASE,[{'LOWER': 'aspergers'}]
+DISEASE,"[{'LOWER': 'heat'}, {'LOWER': 'exhaustion'}]"
+DISEASE,"[{'LOWER': 'myelodysplastic'}, {'LOWER': 'syndrome'}]"
+DISEASE,[{'LOWER': 'pots'}]
+DISEASE,"[{'LOWER': 'scapula'}, {'LOWER': 'dyskinesis'}]"
+DISEASE,[{'LOWER': 'autism'}]
+DISEASE,"[{'LOWER': 'viral'}, {'LOWER': 'fever'}]"
+DISEASE,[{'LOWER': 'adhd'}]
+DISEASE,"[{'LOWER': 'viral'}, {'LOWER': 'bronchiolitis'}]"
+DISEASE,[{'LOWER': 'diarrhea'}]
+DISEASE,"[{'LOWER': 'rheumatoid'}, {'LOWER': 'arthritis'}]"
+DISEASE,"[{'LOWER': 'graves'}, {'LOWER': 'disease'}]"
+DISEASE,[{'LOWER': 'crohns'}]
+DISEASE,[{'LOWER': 'tachycardia'}]
+DISEASE,[{'LOWER': 'ptsd'}]
+DISEASE,[{'LOWER': 'goiter'}]
+DISEASE,[{'LOWER': 'covid'}]
+DISEASE,[{'LOWER': 'migraine'}]
+DISEASE,"[{'LOWER': 'oral'}, {'LOWER': 'thrush'}]"
+DISEASE,"[{'LOWER': 'ear'}, {'LOWER': 'infection'}]"
+DISEASE,[{'LOWER': 'allergies'}]
+DISEASE,[{'LOWER': 'diabetes'}]
+DISEASE,[{'LOWER': 'asthma'}]
+DISEASE,"[{'LOWER': 'ankylosing'}, {'LOWER': 'spondylitis'}]"
+DISEASE,"[{'LOWER': 'bacterial'}, {'LOWER': 'vaginosis'}]"
+DISEASE,[{'LOWER': 'psoriasis'}]
+DISEASE,[{'LOWER': 'sciatica'}]
+DISEASE,[{'LOWER': 'hypothyroidism'}]
+DISEASE,[{'LOWER': 'ibs'}]
+SYMPTOM,"[{'LOWER': 'swollen'}, {'LOWER': 'feeling'}]"
+SYMPTOM,[{'LOWER': 'sweating'}]
+SYMPTOM,"[{'LOWER': 'blood'}, {'LOWER': 'clot'}]"
+SYMPTOM,"[{'LOWER': 'nerve'}, {'LOWER': 'pain'}]"
+SYMPTOM,"[{'LOWER': 'labral'}, {'LOWER': 'tear'}]"
+SYMPTOM,"[{'LOWER': 'severe'}, {'LOWER': 'pain'}]"
+SYMPTOM,[{'LOWER': 'fever'}]
+SYMPTOM,"[{'LOWER': 'piercing'}, {'LOWER': 'sensation'}]"
+SYMPTOM,"[{'LOWER': 'abdominal'}, {'LOWER': 'pain'}]"
+SYMPTOM,"[{'LOWER': 'pain'}, {'LOWER': 'in'}, {'LOWER': 'both'}, {'LOWER': 'of'}, {'LOWER': 'my'}, {'LOWER': 'wrists'}]"
+SYMPTOM,"[{'LOWER': 'low'}, {'LOWER': 'blood'}, {'LOWER': 'pressure'}]"
+SYMPTOM,"[{'LOWER': 'broken'}, {'LOWER': 'bones'}]"
+SYMPTOM,"[{'LOWER': 'blood'}, {'LOWER': 'pressure'}, {'LOWER': 'severly'}, {'LOWER': 'drops'}]"
+SYMPTOM,"[{'LOWER': 'breathing'}, {'LOWER': 'getting'}, {'LOWER': 'shallower'}]"
+SYMPTOM,"[{'LOWER': 'stomach'}, {'LOWER': 'cramping'}]"
+SYMPTOM,[{'LOWER': 'rashes'}]
+SYMPTOM,"[{'LOWER': 'superior'}, {'LOWER': 'labrum'}, {'LOWER': 'tear'}]"
+SYMPTOM,"[{'LOWER': 'elevated'}, {'LOWER': 'blood'}, {'LOWER': 'platelet'}, {'LOWER': 'count'}]"
+SYMPTOM,[{'LOWER': 'dizziness'}]
+SYMPTOM,[{'LOWER': 'mucus'}]
+SYMPTOM,"[{'LOWER': 'mild'}, {'LOWER': 'regurgitation'}]"
+SYMPTOM,"[{'LOWER': 'problem'}, {'LOWER': 'breathing'}]"
+SYMPTOM,"[{'LOWER': 'lot'}, {'LOWER': 'of'}, {'LOWER': 'pain'}, {'LOWER': 'near'}, {'LOWER': 'my'}, {'LOWER': 'scapula'}]"
+SYMPTOM,"[{'LOWER': 'pain'}, {'LOWER': 'in'}, {'LOWER': 'my'}, {'LOWER': 'lower'}, {'LOWER': 'abdomen'}]"
+SYMPTOM,[{'LOWER': 'cough'}]
+SYMPTOM,"[{'LOWER': 'stiff'}, {'LOWER': 'and'}, {'LOWER': 'painful'}]"
+SYMPTOM,[{'LOWER': 'suicidal'}]
+SYMPTOM,[{'LOWER': 'allergies'}]
+SYMPTOM,[{'LOWER': 'bleeding'}]
+SYMPTOM,"[{'LOWER': 'colon'}, {'LOWER': 'spasm'}]"
+SYMPTOM,"[{'LOWER': 'pain'}, {'LOWER': 'in'}, {'LOWER': 'my'}, {'LOWER': 'upper'}, {'LOWER': 'left'}, {'LOWER': 'arm'}]"
+SYMPTOM,"[{'LOWER': 'dislocated'}, {'LOWER': 'my'}, {'LOWER': 'ac'}, {'LOWER': 'joint'}]"
+SYMPTOM,[{'LOWER': 'swollen'}]
+SYMPTOM,"[{'LOWER': 'allergy'}, {'LOWER': 'attack'}]"
+SYMPTOM,"[{'LOWER': 'period'}, {'LOWER': 'cramps'}]"
+SYMPTOM,"[{'LOWER': 'low'}, {'LOWER': 'grade'}, {'LOWER': 'partial'}, {'LOWER': 'tear'}]"
+SYMPTOM,[{'LOWER': 'hyperventilating'}]
+SYMPTOM,"[{'LOWER': 'lightly'}, {'LOWER': 'swollen'}]"
+SYMPTOM,"[{'LOWER': 'muscle'}, {'LOWER': 'spasms'}]"
+SYMPTOM,"[{'LOWER': 'high'}, {'LOWER': 'blood'}, {'LOWER': 'pressure'}]"
+SYMPTOM,"[{'LOWER': 'labrum'}, {'LOWER': 'tear'}]"
+SYMPTOM,[{'LOWER': 'depressed'}]
+SYMPTOM,[{'LOWER': 'coughs'}]
+SYMPTOM,[{'LOWER': 'pus'}]
+SYMPTOM,[{'LOWER': 'weakness'}]
+SYMPTOM,"[{'LOWER': 'brain'}, {'LOWER': 'fog'}]"
+SYMPTOM,[{'LOWER': 'cramps'}]
+SYMPTOM,"[{'LOWER': 'swallowing'}, {'LOWER': 'hurts'}]"
+SYMPTOM,"[{'LOWER': 'tingling'}, {'LOWER': 'sensations'}]"
+SYMPTOM,[{'LOWER': 'spasms'}]
+SYMPTOM,[{'LOWER': 'nausea'}]
+SYMPTOM,"[{'LOWER': 'torn'}, {'LOWER': 'two'}, {'LOWER': 'of'}, {'LOWER': 'my'}, {'LOWER': 'ligaments'}]"
+SYMPTOM,"[{'LOWER': 'minor'}, {'LOWER': 'cramping'}]"
+SYMPTOM,[{'LOWER': 'gassy'}]
+SYMPTOM,"[{'LOWER': 'upset'}, {'LOWER': 'stomach'}]"
+SYMPTOM,[{'LOWER': 'sprained'}]
+SYMPTOM,"[{'LOWER': 'head'}, {'LOWER': 'tics'}]"
+SYMPTOM,"[{'LOWER': 'constantly'}, {'LOWER': 'tired'}]"
+SYMPTOM,"[{'LOWER': 'severe'}, {'LOWER': 'sprain'}]"
+SYMPTOM,"[{'LOWER': 'awful'}, {'LOWER': 'pain'}]"
+SYMPTOM,[{'LOWER': 'headaches'}]
+SYMPTOM,[{'LOWER': 'dehydrated'}]
+SYMPTOM,[{'LOWER': 'cramping'}]
+SYMPTOM,"[{'LOWER': 'acid'}, {'LOWER': 'reflux'}]"
+SYMPTOM,"[{'LOWER': 'intense'}, {'LOWER': 'abdo'}, {'LOWER': 'pain'}]"
+SYMPTOM,"[{'LOWER': 'continuous'}, {'LOWER': 'runny'}, {'LOWER': 'nose'}]"
+SYMPTOM,[{'LOWER': 'cramp'}]
+SYMPTOM,"[{'LOWER': 'mouth'}, {'LOWER': 'sores'}]"
+SYMPTOM,"[{'LOWER': 'range'}, {'LOWER': 'of'}, {'LOWER': 'motion'}, {'LOWER': 'decreasing'}]"
+SYMPTOM,"[{'LOWER': 'severe'}, {'LOWER': 'joint'}, {'LOWER': 'pain'}]"
+SYMPTOM,[{'LOWER': 'constipation'}]
+SYMPTOM,"[{'LOWER': 'chest'}, {'LOWER': 'pains'}]"
+SYMPTOM,"[{'LOWER': 'kidney'}, {'LOWER': 'stones'}]"
+SYMPTOM,[{'LOWER': 'rash'}]
+SYMPTOM,"[{'LOWER': 'dizzy'}, {'LOWER': 'spells'}]"
+SYMPTOM,"[{'LOWER': 'chronic'}, {'LOWER': 'avulsion'}, {'LOWER': 'fracture'}]"
+SYMPTOM,"[{'LOWER': 'tore'}, {'LOWER': 'a'}, {'LOWER': 'ligament'}]"
+SYMPTOM,[{'LOWER': 'fatigue'}]
+SYMPTOM,"[{'LOWER': 'yellowish'}, {'LOWER': 'clear'}, {'LOWER': 'fluid'}]"
+SYMPTOM,"[{'LOWER': 'hands'}, {'LOWER': 'are'}, {'LOWER': 'swollen'}]"
+SYMPTOM,[{'LOWER': 'lightheaded'}]
+SYMPTOM,"[{'LOWER': 'breathing'}, {'LOWER': 'too'}, {'LOWER': 'heavy'}]"
+SYMPTOM,[{'LOWER': 'contractions'}]
+SYMPTOM,[{'LOWER': 'concussion'}]
+SYMPTOM,"[{'LOWER': 'grade'}, {'LOWER': 'ii'}, {'LOWER': 'sprain'}]"
+SYMPTOM,"[{'LOWER': 'white'}, {'LOWER': 'spots'}]"
+SYMPTOM,"[{'LOWER': 'sharp'}, {'LOWER': 'pain'}]"
+SYMPTOM,"[{'LOWER': 'skin'}, {'LOWER': 'infection'}]"
+SYMPTOM,"[{'LOWER': 'bitten'}, {'LOWER': 'by'}, {'LOWER': 'a'}, {'LOWER': 'dog'}]"
+SYMPTOM,[{'LOWER': 'bruised'}]
+SYMPTOM,"[{'LOWER': 'sore'}, {'LOWER': 'throat'}]"
+SYMPTOM,"[{'LOWER': 'abdominal'}, {'LOWER': 'cramps'}]"
+SYMPTOM,"[{'LOWER': 'pain'}, {'LOWER': 'in'}, {'LOWER': 'the'}, {'LOWER': 'back'}]"
+SYMPTOM,[{'LOWER': 'murmur'}]
+SYMPTOM,[{'LOWER': 'anxious'}]
+SYMPTOM,"[{'LOWER': 'back'}, {'LOWER': 'pain'}]"
+SYMPTOM,[{'LOWER': 'vomiting'}]
+SYMPTOM,"[{'LOWER': 'a'}, {'LOWER': 'snap'}, {'LOWER': 'in'}, {'LOWER': 'my'}, {'LOWER': 'back'}]"
+SYMPTOM,"[{'LOWER': 'white'}, {'LOWER': 'spot'}]"
+SYMPTOM,"[{'LOWER': 'sticky'}, {'LOWER': 'stool'}]"
+SYMPTOM,"[{'LOWER': 'low'}, {'LOWER': 'back'}, {'LOWER': 'pain'}]"
+SYMPTOM,[{'LOWER': 'bloated'}]
+SYMPTOM,"[{'LOWER': 'testicle'}, {'LOWER': 'pain'}]"
+SYMPTOM,"[{'LOWER': 'bad'}, {'LOWER': 'gas'}]"
+SYMPTOM,[{'LOWER': 'blister'}]
+SYMPTOM,[{'LOWER': 'exhausted'}]
+SYMPTOM,"[{'LOWER': 'pain'}, {'LOWER': 'in'}, {'LOWER': 'my'}, {'LOWER': 'left'}, {'LOWER': 'testicle'}]"
+SYMPTOM,"[{'LOWER': 'vaginal'}, {'LOWER': 'bleeding'}]"
+SYMPTOM,"[{'LOWER': 'pain'}, {'LOWER': 'in'}, {'LOWER': 'left'}, {'LOWER': 'arm'}]"
+SYMPTOM,"[{'LOWER': 'runny'}, {'LOWER': 'nose'}]"
+SYMPTOM,[{'LOWER': 'bloating'}]
+SYMPTOM,"[{'LOWER': 'panic'}, {'LOWER': 'attacks'}]"
+DRUG,[{'LOWER': 'ciprofloxacin'}]
+DRUG,"[{'LOWER': 'folic'}, {'LOWER': 'acid'}]"
+DRUG,"[{'LOWER': 'otc'}, {'LOWER': 'painkillers'}]"
+DRUG,[{'LOWER': 'ibuprofen'}]
+DRUG,[{'LOWER': 'nexplanon'}]
+DRUG,[{'LOWER': 'robetussin'}]
+DRUG,[{'LOWER': 'vaseline'}]
+DRUG,[{'LOWER': 'linsinpro'}]
+DRUG,[{'LOWER': 'nebulizer'}]
+DRUG,[{'LOWER': 'dexedrine'}]
+DRUG,[{'LOWER': 'progesterone'}]
+DRUG,[{'LOWER': 'tylenol'}]
+DRUG,[{'LOWER': 'augmentin'}]
+DRUG,[{'LOWER': 'nortriptyline'}]
+DRUG,"[{'LOWER': 'vitamin'}, {'LOWER': 'd3'}, {'LOWER': 'supplements'}]"
+DRUG,"[{'LOWER': 'anti'}, {'LOWER': 'depressants'}]"
+DRUG,"[{'LOWER': 'iron'}, {'LOWER': 'supplements'}]"
+DRUG,[{'LOWER': 'soma'}]
+DRUG,"[{'LOWER': 'sandoz'}, {'LOWER': 'ciprofloxacin'}, {'LOWER': 'dexamethasone'}]"
+DRUG,[{'LOWER': 'spironolactone'}]
+DRUG,[{'LOWER': 'biotin'}]
+DRUG,[{'LOWER': 'cortisone'}]
+DRUG,"[{'LOWER': 'cough'}, {'LOWER': 'syrup'}]"
+DRUG,"[{'LOWER': 'sleeping'}, {'LOWER': 'pills'}]"
+DRUG,[{'LOWER': 'lexapro'}]
+DRUG,[{'LOWER': 'clonodine'}]
+DRUG,"[{'LOWER': 'infants'}, {'LOWER': 'tylenol'}]"
+DRUG,[{'LOWER': 'nasonex'}]
+DRUG,[{'LOWER': 'neosporin'}]
+DRUG,[{'LOWER': 'paxil'}]
+DRUG,[{'LOWER': 'fluoxetine'}]
+DRUG,[{'LOWER': 'antidepressants'}]
+DRUG,[{'LOWER': 'metronidazole'}]
+DRUG,[{'LOWER': 'levothyroxine'}]
+DRUG,[{'LOWER': 'estradiol'}]
+DRUG,"[{'LOWER': 'pfizer'}, {'LOWER': 'covid'}, {'LOWER': 'vaccine'}]"
+DRUG,"[{'LOWER': 'rabies'}, {'LOWER': 'shot'}]"
+DRUG,[{'LOWER': 'flonase'}]
+DRUG,[{'LOWER': 'amoxicillin'}]
+DRUG,[{'LOWER': 'lamictal'}]
+DRUG,"[{'LOWER': 'iron'}, {'LOWER': 'tablets'}]"
+DRUG,"[{'LOWER': 'flu'}, {'LOWER': 'shot'}]"
+DRUG,"[{'LOWER': 'covid'}, {'LOWER': 'vaccine'}]"
+DRUG,[{'LOWER': 'anxiolytics'}]
+DRUG,[{'LOWER': 'motrin'}]
+DRUG,[{'LOWER': 'escitalopram'}]
+DRUG,"[{'LOWER': 'beta'}, {'LOWER': 'blockers'}]"
+DRUG,[{'LOWER': 'ibuprofen'}]
+DRUG,[{'LOWER': 'amnesteem'}]
+DRUG,[{'LOWER': 'bupirone'}]
+DRUG,[{'LOWER': 'zoloft'}]
+DRUG,[{'LOWER': 'dextroamphetamine'}]
+DRUG,[{'LOWER': 'carveidilol'}]
+DRUG,[{'LOWER': 'propanolol'}]
+DRUG,[{'LOWER': 'carvedilol'}]
+DRUG,[{'LOWER': 'nsaids'}]
+DRUG,"[{'LOWER': 'birth'}, {'LOWER': 'control'}]"
+DRUG,[{'LOWER': 'ssris'}]
+DRUG,[{'LOWER': 'propranolol'}]
+DRUG,[{'LOWER': 'tagamet'}]
+DRUG,[{'LOWER': 'augmentin'}]
+DRUG,[{'LOWER': 'metoprolol'}]
+DRUG,[{'LOWER': 'amlodipine'}]
+DRUG,[{'LOWER': 'advil'}]
+DRUG,[{'LOWER': 'hydroxyzine'}]
+DRUG,[{'LOWER': 'ativan'}]
+DRUG,[{'LOWER': 'pantoprazole'}]
+DRUG,[{'LOWER': 'roacutan'}]
+DRUG,"[{'LOWER': 'beta'}, {'LOWER': 'blocker'}]"
+DRUG,[{'LOWER': 'lexapro'}]
+DRUG,"[{'LOWER': 'levothyroxine'}, {'LOWER': 'sodium'}]"
+DRUG,[{'LOWER': 'ssri'}]
+DRUG,[{'LOWER': 'hydrozyxine'}]
+DRUG,[{'LOWER': 'antihistamine'}]
+DRUG,[{'LOWER': 'prilosec'}]
+DRUG,[{'LOWER': 'levothyroxine'}]
+DRUG,[{'LOWER': 'effexor'}]
+SYMPTOM,"[{'LOWER': 'heart'}, {'LOWER': 'attack'}]"
+SYMPTOM,[{'LOWER': 'coughing'}]
+SYMPTOM,"[{'LOWER': 'vaginal'}, {'LOWER': 'cervical'}, {'LOWER': 'pain'}]"
+SYMPTOM,"[{'LOWER': 'premature'}, {'LOWER': 'atrial'}, {'LOWER': 'contractions'}]"
+SYMPTOM,"[{'LOWER': 'nausea'}, {'LOWER': 'and'}, {'LOWER': 'vomiting'}]"
+SYMPTOM,[{'LOWER': 'metanephrines'}]
+SYMPTOM,"[{'LOWER': 'stretch'}, {'LOWER': 'mark'}]"
+SYMPTOM,"[{'LOWER': 'ingrown'}, {'LOWER': 'toenails'}]"
+SYMPTOM,[{'LOWER': 'sweats'}]
+SYMPTOM,"[{'LOWER': 'pain'}, {'LOWER': 'on'}, {'LOWER': 'left'}, {'LOWER': 'side'}, {'LOWER': 'of'}, {'LOWER': 'chest'}, {'LOWER': 'and'}, {'LOWER': 'back'}]"
+SYMPTOM,"[{'LOWER': 'extreme'}, {'LOWER': 'tachycardia'}]"
+SYMPTOM,"[{'LOWER': 'numb'}, {'LOWER': 'patches'}]"
+SYMPTOM,[{'LOWER': 'scars'}]
+SYMPTOM,[{'LOWER': 'nauseous'}]
+SYMPTOM,"[{'LOWER': 'sore'}, {'LOWER': 'muscle'}]"
+SYMPTOM,[{'LOWER': 'heartburn'}]
+SYMPTOM,[{'LOWER': 'vomiting'}]
+SYMPTOM,"[{'LOWER': 'enlarged'}, {'LOWER': 'epididymis'}]"
+SYMPTOM,"[{'LOWER': 'dryness'}, {'LOWER': 'on'}, {'LOWER': 'my'}, {'LOWER': 'skin'}]"
+SYMPTOM,[{'LOWER': 'tightness'}]
+SYMPTOM,"[{'LOWER': 'low'}, {'LOWER': 'potassium'}]"
+SYMPTOM,"[{'LOWER': 'pain'}, {'LOWER': 'in'}, {'LOWER': 'my'}, {'LOWER': 'right'}, {'LOWER': 'testicle'}]"
+SYMPTOM,"[{'LOWER': 'heart'}, {'LOWER': 'palpitations'}]"
+SYMPTOM,"[{'LOWER': 'feverish'}, {'LOWER': 'feeling'}]"
+SYMPTOM,[{'LOWER': 'numbness'}]
+SYMPTOM,[{'LOWER': 'irritability'}]
+SYMPTOM,"[{'LOWER': 'small'}, {'LOWER': 'arachnoid'}, {'LOWER': 'cyst'}]"
+SYMPTOM,"[{'LOWER': 'panic'}, {'LOWER': 'attack'}]"
+SYMPTOM,"[{'LOWER': 'tingling'}, {'LOWER': 'sensation'}]"
+SYMPTOM,"[{'LOWER': 'shortness'}, {'LOWER': 'of'}, {'LOWER': 'breath'}]"
+SYMPTOM,[{'LOWER': 'palpatations'}]
+SYMPTOM,[{'LOWER': 'nausea'}]
+SYMPTOM,[{'LOWER': 'tachycardia'}]
+SYMPTOM,[{'LOWER': 'fatigue'}]
+SYMPTOM,"[{'LOWER': 'ears'}, {'LOWER': 'started'}, {'LOWER': 'ringing'}]"
+SYMPTOM,"[{'LOWER': 'discoloration'}, {'LOWER': 'in'}, {'LOWER': 'genitalia'}]"
+SYMPTOM,"[{'LOWER': 'extreme'}, {'LOWER': 'anxiety'}]"
+SYMPTOM,"[{'LOWER': 'chest'}, {'LOWER': 'pain'}]"
+SYMPTOM,"[{'LOWER': 'blurred'}, {'LOWER': 'vision'}]"
+SYMPTOM,"[{'LOWER': 'stabbing'}, {'LOWER': 'headache'}]"
+SYMPTOM,[{'LOWER': 'headache'}]
+SYMPTOM,"[{'LOWER': 'eye'}, {'LOWER': 'pain'}]"
+SYMPTOM,"[{'LOWER': 'swollen'}, {'LOWER': 'veins'}]"
+SYMPTOM,[{'LOWER': 'lightheaded'}]
+SYMPTOM,"[{'LOWER': 'troponin'}, {'LOWER': 'test'}]"
+SYMPTOM,"[{'LOWER': 'uncontrollably'}, {'LOWER': 'shivering'}]"
+SYMPTOM,"[{'LOWER': 'recurring'}, {'LOWER': 'headaches'}]"
+SYMPTOM,"[{'LOWER': 'pins'}, {'LOWER': 'and'}, {'LOWER': 'needles'}]"
+SYMPTOM,"[{'LOWER': 'soreness'}, {'LOWER': 'in'}, {'LOWER': 'my'}, {'LOWER': 'chest'}]"
+SYMPTOM,"[{'LOWER': 'pill'}, {'LOWER': 'aspiration'}]"
+SYMPTOM,[{'LOWER': 'hypertension'}]
+SYMPTOM,"[{'LOWER': 'dry'}, {'LOWER': 'heaving'}]"
+SYMPTOM,"[{'LOWER': 'qt'}, {'LOWER': 'prolongation'}]"
+SYMPTOM,[{'LOWER': 'headaches'}]
+SYMPTOM,"[{'LOWER': 'nail'}, {'LOWER': 'ingrown'}]"
+SYMPTOM,[{'LOWER': 'thyroid'}]
+SYMPTOM,[{'LOWER': 'numb'}]
+SYMPTOM,"[{'LOWER': 'vagina'}, {'LOWER': 'hurts'}]"
+DISEASE,[{'LOWER': 'uti'}]
+DISEASE,[{'LOWER': 'dermatographia'}]
+DISEASE,[{'LOWER': 'giloblastoma'}]
+DISEASE,"[{'LOWER': 'depression'}, {'LOWER': 'dysphoria'}]"
+DISEASE,[{'LOWER': 'anxiety'}]
+DISEASE,"[{'LOWER': 'panic'}, {'LOWER': 'disorder'}]"
+DISEASE,[{'LOWER': 'depression'}]
+DISEASE,[{'LOWER': 'gad'}]
+DISEASE,"[{'LOWER': 'yeast'}, {'LOWER': 'infection'}]"
+DISEASE,"[{'LOWER': 'hashimotos'}, {'LOWER': 'thyroiditis'}]"
+DISEASE,"[{'LOWER': 'blocked'}, {'LOWER': 'eustachian'}, {'LOWER': 'tubes'}]"
+DISEASE,[{'LOWER': 'arrhythmia'}]
+DISEASE,[{'LOWER': 'pneumonia'}]
+DISEASE,[{'LOWER': 'adhd'}]
+DISEASE,"[{'LOWER': 'small'}, {'LOWER': 'arachnoid'}, {'LOWER': 'cyst'}]"
+DISEASE,"[{'LOWER': 'retinal'}, {'LOWER': 'vascular'}, {'LOWER': 'tortuosity'}]"
+DISEASE,"[{'LOWER': 'vascular'}, {'LOWER': 'tortuosity'}]"
+DISEASE,[{'LOWER': 'mdd'}]
+DISEASE,"[{'LOWER': 'cardiac'}, {'LOWER': 'arrythmia'}]"
+DISEASE,[{'LOWER': 'covid'}]
+DISEASE,[{'LOWER': 'prostatitis'}]
+DISEASE,[{'LOWER': 'gerd'}]
+DISEASE,"[{'LOWER': 'obsessive'}, {'LOWER': 'compulsive'}, {'LOWER': 'disorder'}]"
+DISEASE,"[{'LOWER': 'minor'}, {'LOWER': 'hypoglycemia'}]"
+DISEASE,[{'LOWER': 'ocd'}]
+DISEASE,"[{'LOWER': 'sinus'}, {'LOWER': 'tachycardia'}]"
+DISEASE,[{'LOWER': 'hypothyroidism'}]
+DISEASE,[{'LOWER': 'ibs'}]
