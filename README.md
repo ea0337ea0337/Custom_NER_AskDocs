@@ -3,7 +3,7 @@
 ### Contents
 - [Problem Statement](#Problem-Statement)
 - [Datasets](#Datasets)
-- [Custom NER Model](#Data-Processing-and-Modeling)
+- [Custom NER Model Notebooks](#Custom-NER-model-notebooks)
 - [Observations](#Observations-from-Model-Training-and-Evaluation)
 - [Results and Use Cases](#Results-and-Use-Cases)
 - [Next Steps](#Future-Work)
@@ -48,7 +48,7 @@ Extracting meaningful information from patient queries can help in better decisi
 
 [Back to Top](#Contents)
 
-#### Data Processing and Modeling
+#### Custom NER Model Notebooks
 * [`Data Cleaning`](./code/1_Data_Cleaning.ipynb): Clean text data from csv files and save as json files for annotation
 * [`Pre-processing Annotated Data`](./code/2_Preprocessing.ipynb): Read-in annotated data and check for alignment. Save in a spaCy readable format.
 * [`Model Training`](./code/3_Model_training.ipynb): Build Rule-Based and ML models
